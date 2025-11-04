@@ -4,7 +4,7 @@
 
 ![img](https://raw.githubusercontent.com/itawenya/pic/main/IMG_5027(20221026-061239).JPG)
 
-1. 学会如何使用AI大模型解决问题，学会**适度使用**而不是过度依赖
+1. 学会如何使用 AI 大模型解决问题，学会**适度使用**而不是过度依赖
 
 2. 请阅读[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)，学习如何聪明提问
 
@@ -21,7 +21,8 @@
 8. **每位同学的阶段任务由各自 mentor 检查**
 
    > 请大家主动与 mentor 保持沟通，按时提交各阶段成果
-   > 比起在阶段时长内未完成任务内容，更让我们难以接受的是：没有按时完成，也没有提前与 mentor 说明情况
+   > 比起在阶段时长内未完成任务内容，更让我们难以接受的是：
+   > 没有按时完成，也没有提前与 mentor 说明情况
 
 9. 睡佬墙裂推荐的练习标准键盘指法网站：https://dazidazi.com/，想练打字的冲！
 
